@@ -32,8 +32,8 @@ return [
     |
     */
     'analyzer_paths' => [
-        'Enlightn\\Enlightn\\Analyzers' => base_path('vendor/enlightn/enlightn/src/Analyzers'),
-        'Enlightn\\EnlightnPro\\Analyzers' => base_path('vendor/enlightn/enlightnpro/src/Analyzers'),
+        'Enlightn\\Enlightn\\Analyzers' => base_path('vendor/chrisinit/enlightn/src/Analyzers'),
+        'Enlightn\\EnlightnPro\\Analyzers' => base_path('vendor/chrisinit/enlightnpro/src/Analyzers'),
     ],
 
     /*
